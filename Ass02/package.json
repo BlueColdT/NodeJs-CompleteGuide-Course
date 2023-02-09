@@ -1,0 +1,15 @@
+{
+  "name": "ass02",
+  "version": "1.0.0",
+  "description": "Assignment 02 of the course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Tamer Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
